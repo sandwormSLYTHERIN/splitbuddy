@@ -1,3 +1,5 @@
+https://splitbuddy-sepia.vercel.app/
+
 # 💰 SplitBuddy — Smart Expense Splitting
 
 A full-stack MERN expense splitting application with premium dark-mode UI, real-time balance calculations, and AI-powered features via Google Gemini.
